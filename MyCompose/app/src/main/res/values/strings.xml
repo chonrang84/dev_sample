@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCompose</string>
+    <string name="back_button">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="go_to_first">Go to First</string>
+    <string name="depth1">1Depth</string>
+    <string name="depth2">2Depth</string>
+    <string name="depth3">3Depth</string>
+    <string name="depth4">4Depth</string>
+</resources>

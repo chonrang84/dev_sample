@@ -1,0 +1,1 @@
+Compose Sample is available from Android Studio Dolphin version.
